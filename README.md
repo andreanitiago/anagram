@@ -37,3 +37,5 @@ Sun
 Laid
 
 The file will be provided.
+
+Execute that experiment by ./anagram.rb "wl.txt" "anagram" > output.txt or ./anagram.rb "wl.txt" "ananagram" > output.txt
